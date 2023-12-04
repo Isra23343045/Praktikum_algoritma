@@ -29,7 +29,11 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
   * [Modul 5 Soal 2](#M5-Soal-2)
   * [Modul 5 Soal 3](#M5-Soal-3)
   * [Modul 5 Soal 4](#M5-Soal-4)
-* [Tugas Modul 5](#deployment)
+* [Penjelasan Tugas Modul 6](#Penjelasan-Tugas-Modul-6)
+  * [Modul 6 Soal 1](#M6-Soal-1)
+  * [Modul 6 Soal 2](#M6-Soal-2)
+  * [Modul 6 Soal 3](#M6-Soal-3)
+  * [Modul 6 Soal 4](#M6-Soal-4)
 * [Tugas Modul 6](#contact)
 * [Tugas Modul 7](#copyright)
 
