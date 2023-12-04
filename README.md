@@ -15,7 +15,7 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
   * [Soal 2](#Soal-2)
   * [Soal 3](#Soal-3)
   * [Soal 4](#Soal-4)
-* [Penjelasan Tugas Modul 3](#Penjelasan Tugas Modul-3)
+* [Penjelasan Tugas Modul 3](#Penjelasan-Tugas-Modul-3)
   * [Soal 1](#Soal-1)
   * [Soal 2](#Soal-2)
   * [Soal 3](#Soal-3)
