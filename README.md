@@ -12,9 +12,9 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
 
 * [Penjelasan Tugas Modul 1](#Penjelasan-Tugas-Modul-1)
   * [Soal 1](#Soal-1)
-  * [ Soal 2](#links)
-  * [ Soal 3](#links)
-  * [ Soal 4](#links)
+  * [Soal 2](#Soal-2)
+  * [Soal 3](#Soal-3)
+  * [Soal 4](#Soal-4)
 * [Tugas Modul 2](#versions)
 * [Tugas Modul 3](#roadmap)
 * [Tugas Modul 4](#development-guide)
@@ -48,7 +48,7 @@ int main() {
 * **scanf("%s", nama_depan);**: Ini adalah perintah untuk menerima input dari pengguna. `%s` dalam `scanf` digunakan untuk menerima string dari pengguna dan nilai akan disimpan dalam variabel `nama_depan`.Seterusnya, proses yang sama dilakukan untuk nama tengah dan nama belakang dengan `printf` untuk pesan masukan dan `scanf` untuk menerima input.
 * **printf("Selamat datang %s %s %s dalam pemrograman C ", nama_depan, nama_tengah, nama_belakang);**: Ini adalah perintah untuk mencetak pesan selamat datang kepada pengguna dengan menggunakan nilai yang telah dimasukkan sebelumnya untuk nama depan, tengah, dan belakang.
 
-### Soal 2 : Menghiting Nilai Akhir Berdasarkan Input Pengguna
+### Soal 2
 ```c
     char nama[20], prodi[20], fakultas[20];
     int NIM, nilai_praktikum, nilai_UTS, nilai_UAS;
@@ -135,7 +135,7 @@ Bagian ini mencetak kembali data yang dimasukkan pengguna menggunakan `printf`. 
 ```
 Bagian ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan (30% nilai praktikum, 30% nilai UTS, dan 40% nilai UAS).Nilai akhir dihitung dengan menggunakan persamaan tertentu dan kemudian ditampilkan menggunakan `printf`.
 
-### Soal 3 : Program untuk menghitung luas segitiga
+### Soal 3
 ```c
     int alas = 8, tinggi = 5, luas;
     luas =  0.5 * alas * tinggi;
@@ -162,7 +162,7 @@ Bagian ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan (30% n
 Program menampilkan informasi terkait perhitungan luas segitiga dengan panjang alas dan tinggi yang telah diberikan.Baris terakhir `(printf("alas = %i", luas);)` akan mencetak hasil perhitungan luas segitiga yang telah disimpan di dalam variabel luas.
 
 Ini adalah kode yang melakukan perhitungan luas segitiga dengan panjang alas 8 dan tinggi 5, lalu menampilkan langkah-langkah perhitungannya serta hasilnya dalam bentuk teks melalui fungsi `printf`.
-### Soal 4 : Program untuk menghitung luas segitiga
+### Soal 4
 ```c
     int panjang = 10, lebar = 5, Luas;
     Luas =  panjang * lebar;
