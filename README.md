@@ -11,7 +11,7 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
 ## Table of contents
 
 * [Penjelasan Tugas Modul 1](#Penjelasan-Tugas-Modul-1)
-  * [Soal 1](#Soal-1-:-Meminta-Nama-Lengkap-User-dan-Menyapanya)
+  * [Soal 1](#Soal-1)
   * [ Soal 2](#links)
   * [ Soal 3](#links)
   * [ Soal 4](#links)
@@ -25,7 +25,7 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
 
 ## Penjelasan Tugas Modul 1
 
-### Soal 1 : Meminta Nama Lengkap User dan Menyapanya
+### Soal 1
 
 ```c
 #include <stdio.h>
