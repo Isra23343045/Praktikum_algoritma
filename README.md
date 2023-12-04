@@ -11,14 +11,14 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
 ## Table of contents
 
 * [Penjelasan Tugas Modul 2](#Penjelasan-Tugas-Modul-2)
-  * [Soal 1](#Soal-1)
-  * [Soal 2](#Soal-2)
-  * [Soal 3](#Soal-3)
-  * [Soal 4](#Soal-4)
+  * [Soal 1](#M2-Soal-1)
+  * [Soal 2](#M2-Soal-2)
+  * [Soal 3](#M2-Soal-3)
+  * [Soal 4](#M2-Soal-4)
 * [Penjelasan Tugas Modul 3](#Penjelasan-Tugas-Modul-3)
-  * [Soal 1](#Soal-1)
-  * [Soal 2](#Soal-2)
-  * [Soal 3](#Soal-3)
+  * [Soal 1](#M3-Soal-1)
+  * [Soal 2](#M3-Soal-2)
+  * [Soal 3](#M3-Soal-3)
 * [Tugas Modul 3](#roadmap)
 * [Tugas Modul 4](#development-guide)
 * [Tugas Modul 5](#deployment)
@@ -28,7 +28,7 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
 
 ## Penjelasan Tugas Modul 2
 
-### Soal 1
+### M2 Soal 1
 
 ```c
 #include <stdio.h>
@@ -51,7 +51,7 @@ int main() {
 * `scanf("%s", nama_depan);`: Ini adalah perintah untuk menerima input dari pengguna. `%s` dalam `scanf` digunakan untuk menerima string dari pengguna dan nilai akan disimpan dalam variabel `nama_depan`.Seterusnya, proses yang sama dilakukan untuk nama tengah dan nama belakang dengan `printf` untuk pesan masukan dan `scanf` untuk menerima input.
 * `printf("Selamat datang %s %s %s dalam pemrograman C ", nama_depan, nama_tengah, nama_belakang);`: Ini adalah perintah untuk mencetak pesan selamat datang kepada pengguna dengan menggunakan nilai yang telah dimasukkan sebelumnya untuk nama depan, tengah, dan belakang.
 
-### Soal 2
+### M2 Soal 2
 ```c
     char nama[20], prodi[20], fakultas[20];
     int NIM, nilai_praktikum, nilai_UTS, nilai_UAS;
@@ -138,7 +138,7 @@ Bagian ini mencetak kembali data yang dimasukkan pengguna menggunakan `printf`. 
 ```
 Bagian ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan (30% nilai praktikum, 30% nilai UTS, dan 40% nilai UAS).Nilai akhir dihitung dengan menggunakan persamaan tertentu dan kemudian ditampilkan menggunakan `printf`.
 
-### Soal 3
+### M2 Soal 3
 ```c
     int alas = 8, tinggi = 5, luas;
     luas =  0.5 * alas * tinggi;
@@ -165,7 +165,7 @@ Bagian ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan (30% n
 Program menampilkan informasi terkait perhitungan luas segitiga dengan panjang alas dan tinggi yang telah diberikan.Baris terakhir `(printf("alas = %i", luas);)` akan mencetak hasil perhitungan luas segitiga yang telah disimpan di dalam variabel luas.
 
 Ini adalah kode yang melakukan perhitungan luas segitiga dengan panjang alas 8 dan tinggi 5, lalu menampilkan langkah-langkah perhitungannya serta hasilnya dalam bentuk teks melalui fungsi `printf`.
-### Soal 4
+### M2-Soal 4
 ```c
     int panjang = 10, lebar = 5, Luas;
     Luas =  panjang * lebar;
@@ -194,7 +194,7 @@ Jadi, kode ini menghitung luas persegi panjang dengan panjang 10 dan lebar 5, la
 
 ## Penjelasan Tugas Modul 3
 
-### Soal 1
+### M3 Soal 1
 ```c
 #include <stdio.h>
 
@@ -228,7 +228,7 @@ printf("Dollar yang harus anda berikan adalah : %i dollar\n", hasil_konversi);
 ```
 Program menampilkan hasil konversi dalam Dollar yang harus diberikan kepada penukar dengan menggunakan `%i` untuk mencetak variabel `hasil_konversi`.Jadi, program ini menghitung dan menampilkan jumlah Dollar yang setara dengan 2.500.000 Rupiah berdasarkan nilai tukar yang telah ditentukan.
 
-### Soal 2
+### M3 Soal 2
 ```c
 /* Program untuk konversi suhu dari Celcius ke Kelvin, Fahrenheit, dan Reamur */
     float k, f, r, c;
@@ -273,7 +273,7 @@ printf("Suhu dalam Reamur       = %.2f\n", r);
 ```
 Program menampilkan nilai suhu yang diinputkan dalam Celsius, serta nilai konversinya dalam Kelvin, Fahrenheit, dan Reamur menggunakan `printf`.Jadi, program ini memungkinkan pengguna untuk memasukkan suhu dalam Celsius, lalu mengkonversinya ke suhu dalam skala Kelvin, Fahrenheit, dan Reamur, dan menampilkan hasilnya.
 
-### Soal 3
+### M3 Soal 3
 ```c
 /* Program untuk menghitung volume dan luas permukaan dari sebuah bola basket */
     
