@@ -53,6 +53,9 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
   * [Modul 10 Soal 3](#M10-Soal-3)
 * [Source Code Masing-masing Modul](#Source-Code-Masing-masing-Modul)
 
+***
+***
+
 ## Penjelasan Tugas Modul 2
 
 ### M2 Soal 1
@@ -219,6 +222,10 @@ Program menampilkan informasi terkait perhitungan luas persegi panjang dengan pa
 Baris terakhir `(printf("alas = %i", Luas);)` akan mencetak hasil perhitungan luas persegi panjang yang telah disimpan di dalam variabel `Luas`.
 Jadi, kode ini menghitung luas persegi panjang dengan panjang 10 dan lebar 5, lalu menampilkan langkah-langkah perhitungannya serta hasilnya dalam bentuk teks melalui fungsi `printf`.
 
+***
+***
+
+
 ## Penjelasan Tugas Modul 3
 
 ### M3 Soal 1
@@ -354,6 +361,8 @@ Program menampilkan informasi tentang perhitungan volume bola.Rumus volume bola 
 ```
 Program menampilkan informasi tentang perhitungan luas permukaan bola.Perhitungan luas permukaan bola dilakukan dengan menggunakan rumus yang sesuai.Meskipun tujuannya adalah menghitung volume dan luas permukaan bola, perhitungan volume bola perlu diperbaiki karena penggunaan bilangan bulat `(4 / 3)` yang menghasilkan nilai bulat. Idealnya, pemakaian nilai pecahan atau penerapan tipe data yang sesuai perlu diperhatikan untuk perhitungan yang akurat.
 
+***
+***
 
 
 ## Penjelasan Tugas Modul 4
@@ -533,6 +542,8 @@ Variabel `tarif_1jam` diinisialisasi dengan nilai 15000, mewakili tarif per jam 
 ```
 Program menghitung total harga sewa film berdasarkan durasi waktu yang telah ditentukan.Pertama, terdapat tarif penuh untuk 1 jam `(1 * tarif_1jam)`.Kemudian ada diskon 50% untuk jam kedua `(1 * tarif_1jam * 0.5)`.Terakhir, diskon 50% juga diberikan untuk jam ketiga `(tarif_1jam * 0.5)`.Hasil perhitungan dari total harga disimpan dalam variabel `harga` dan kemudian ditampilkan menggunakan `printf`.Jadi, kode ini menghitung total harga sewa film berdasarkan tarif per jam dan durasi waktu, memberikan diskon setengah harga untuk jam kedua dan ketiga.
 
+***
+***
 
 ## Penjelasan Tugas Modul 5
 
@@ -954,7 +965,8 @@ Program menggunakan serangkaian `if-else` untuk menentukan rentang nilai dan mem
 
 Jika pengguna memasukkan nilai yang tidak valid (di luar rentang 0-100), program akan menampilkan pesan kesalahan menggunakan `printf`.Dengan ini, program memungkinkan pengguna untuk memasukkan nilai-nilai dari berbagai komponen evaluasi dan memberikan keterangan tentang kelulusan berdasarkan nilai akhir yang dihitung.
     
-    
+***
+***
     
 ## Penjelasan Tugas Modul 6
 
@@ -1166,6 +1178,8 @@ Menampilkan pesan untuk meminta pengguna untuk memilih nomor menu yang sesuai.
 
 Dengan demikian, program ATM ini memungkinkan Hattori untuk memeriksa saldo, melakukan setoran, dan melakukan penarikan tunai dari saldo yang dimilikinya.
 
+***
+***
 
 
 ## Penjelasan Tugas Modul 7
@@ -1376,6 +1390,9 @@ Program meminta pengguna untuk memasukkan username dan password dalam loop `whil
 }
 ```
 Program memeriksa apakah input username dan password cocok dengan nilai default.Jika username salah, program memberikan notifikasi.Jika password salah, program mengurangi kesempatan dan memberi notifikasi. Jika kesempatan habis, program memberikan notifikasi bahwa percobaan login telah habis.Program ini meminta pengguna untuk memasukkan username dan password, memeriksa kecocokan dengan nilai default, dan memberikan notifikasi jika terjadi kesalahan atau kegagalan login. Jika login berhasil, program memberikan pesan bahwa login berhasil.
+
+***
+***
 
 
 ## Penjelasan Tugas Modul 8
@@ -1726,6 +1743,8 @@ int main() {
 ```
 Fungsi `main` meminta pengguna untuk memasukkan total belanja.Kemudian, total pembelian, besar diskon berdasarkan fungsi `discount`, dan jumlah yang harus dibayarkan setelah diskon dihitung dan dicetak.
 
+***
+***
 
 
 ## Penjelasan Tugas Modul 9
@@ -1838,6 +1857,8 @@ int lesley = 57082;
 `lesley` diatur kembali ke nilai 57082.Pointer `Layla` diinisialisasi untuk menunjuk ke alamat memori dari `lesley`.Variabel `Balmond` diinisialisasi dengan nilai yang ditunjuk oleh `Layla` ditambah 1.Nilai dari variabel yang ditunjuk oleh `Layla` dan nilai `Balmond` dicetak.
 
 Dua bagian kode tersebut melakukan hal yang sama dengan cara yang sedikit berbeda. Pertama, menggunakan variabel langsung (`lesley`, `layla`, dan `balmond`), sedangkan yang kedua, menggunakan pointer (`Layla` dan `Balmond`). Hasil akhirnya adalah mencetak nilai `layla` dan nilai `balmond` yang sama pada kedua kasus tersebut.
+***
+***
 
 ## Penjelasan Tugas Modul 10
 
@@ -2171,7 +2192,8 @@ int main() {
 }
 ```
 Fungsi utama dimulai di sini.Ada array `data` dari struktur `mahasiswa` yang dapat menyimpan data hingga 50 mahasiswa.Variabel `total` digunakan untuk menghitung jumlah mahasiswa yang telah dimasukkan.Loop `do-while` digunakan untuk mengulang proses memasukkan data mahasiswa.Setelah pengguna selesai memasukkan data, program menampilkan info dari data mahasiswa yang dimasukkan.Program meminta pengguna apakah ingin menambahkan data mahasiswa lagi (`y/n`). Jika `y`, loop akan terus berlanjut. Jika `n`, program selesai.
-
+***
+***
 
 ## Source Code Masing-masing Modul
 [Modul 1 (Algoritma, Pemrograman & IDE)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%201%20(Algoritma%2C%20Pemrograman%20%26%20IDE))  
@@ -2185,119 +2207,3 @@ Fungsi utama dimulai di sini.Ada array `data` dari struktur `mahasiswa` yang dap
 [Modul 9 (Pointer)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%209%20(Pointer))  
 [Modul 10 (Enumerasi & Structure)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%2010%20(Enumerasi%20%26%20Structure))  
 [Job Sheet 11]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
