@@ -171,6 +171,8 @@ Bagian ini mencetak kembali data yang dimasukkan pengguna menggunakan `printf`. 
 ```
 Bagian ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan (30% nilai praktikum, 30% nilai UTS, dan 40% nilai UAS).Nilai akhir dihitung dengan menggunakan persamaan tertentu dan kemudian ditampilkan menggunakan `printf`.
 
+Kembali ke 👉 [Table of contents](#Table-of-contents)
+
 ### M2 Soal 3
 ```c
     int alas = 8, tinggi = 5, luas;
@@ -198,6 +200,9 @@ Bagian ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan (30% n
 Program menampilkan informasi terkait perhitungan luas segitiga dengan panjang alas dan tinggi yang telah diberikan.Baris terakhir `(printf("alas = %i", luas);)` akan mencetak hasil perhitungan luas segitiga yang telah disimpan di dalam variabel luas.
 
 Ini adalah kode yang melakukan perhitungan luas segitiga dengan panjang alas 8 dan tinggi 5, lalu menampilkan langkah-langkah perhitungannya serta hasilnya dalam bentuk teks melalui fungsi `printf`.
+
+Kembali ke 👉 [Table of contents](#Table-of-contents)
+
 ### M2-Soal 4
 ```c
     int panjang = 10, lebar = 5, Luas;
@@ -227,7 +232,7 @@ Jadi, kode ini menghitung luas persegi panjang dengan panjang 10 dan lebar 5, la
 
 ***
 ***
-
+Kembali ke 👉 [Table of contents](#Table-of-contents)
 
 ## Penjelasan Tugas Modul 3
 
@@ -264,6 +269,8 @@ Dilakukan operasi pembagian `rupiah` dengan `dollar` untuk menghitung jumlah Dol
 printf("Dollar yang harus anda berikan adalah : %i dollar\n", hasil_konversi);
 ```
 Program menampilkan hasil konversi dalam Dollar yang harus diberikan kepada penukar dengan menggunakan `%i` untuk mencetak variabel `hasil_konversi`.Jadi, program ini menghitung dan menampilkan jumlah Dollar yang setara dengan 2.500.000 Rupiah berdasarkan nilai tukar yang telah ditentukan.
+
+Kembali ke 👉 [Table of contents](#Table-of-contents)
 
 ### M3 Soal 2
 ```c
