@@ -51,6 +51,8 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
   * [Modul 10 Soal 1](#M10-Soal-1)
   * [Modul 10 Soal 2](#M10-Soal-2)
   * [Modul 10 Soal 3](#M10-Soal-3)
+* [Source Code Masing-masing Modul](#Source-Code-Masing-masing-Modul)
+
 ## Penjelasan Tugas Modul 2
 
 ### M2 Soal 1
@@ -2171,7 +2173,18 @@ int main() {
 Fungsi utama dimulai di sini.Ada array `data` dari struktur `mahasiswa` yang dapat menyimpan data hingga 50 mahasiswa.Variabel `total` digunakan untuk menghitung jumlah mahasiswa yang telah dimasukkan.Loop `do-while` digunakan untuk mengulang proses memasukkan data mahasiswa.Setelah pengguna selesai memasukkan data, program menampilkan info dari data mahasiswa yang dimasukkan.Program meminta pengguna apakah ingin menambahkan data mahasiswa lagi (`y/n`). Jika `y`, loop akan terus berlanjut. Jika `n`, program selesai.
 
 
-
+## Source Code Masing-masing Modul
+[Modul 1 (Algoritma, Pemrograman & IDE)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%201%20(Algoritma%2C%20Pemrograman%20%26%20IDE))  
+[Modul 2 (Pemrograman Dasar C)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%202%20(Pemrograman%20Dasar%20C))  
+[Modul 3 (Variabel, Konstanta & Tipe Data)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%203%20(Variabel%2C%20Konstanta%20%26%20Tipe%20Data))  
+[Modul 4 (Operator)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%204%20(Operator))  
+[Modul 5 (Flow Control: Decision Making)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%205%20(Flow%20Control%3A%20Decision%20Making))  
+[modul 6 (Flow Control: Loop (Perulangan))](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%206%20(Flow%20Control%3A%20Loop%20(Perulangan)))  
+[Modul 7 (Struktur Data: Array)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%207%20(Struktur%20Data%3A%20Array))  
+[Modul 8 (Fungsi & Prosedur)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%208%20(Fungsi%20%26%20Prosedur))  
+[Modul 9 (Pointer)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%209%20(Pointer))  
+[Modul 10 (Enumerasi & Structure)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%2010%20(Enumerasi%20%26%20Structure))  
+[Job Sheet 11]
 
 
 
