@@ -45,7 +45,7 @@ Repositori ini berisi penjelasan dari tiap tiap latihan pada modul modul yang te
   * [Modul 8 Soal 3](#M8-Soal-3)
   * [Modul 8 Soal 4](#M8-Soal-4)
 * [Penjelasan Tugas Modul 9](#Penjelasan-Tugas-Modul-9)
-  * [Modul  Soal 1](#M9-Soal-1)
+  * [Modul 9 Soal 1](#M9-Soal-1)
   * [Modul 9 Soal 2](#M9-Soal-2)
   * [Modul 9 Soal 3](#M9-Soal-3)
 * [Penjelasan Tugas Modul 10](#Penjelasan-Tugas-Modul-10)
