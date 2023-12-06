@@ -82,7 +82,7 @@ int main() {
 * `scanf("%s", nama_depan);`: Ini adalah perintah untuk menerima input dari pengguna. `%s` dalam `scanf` digunakan untuk menerima string dari pengguna dan nilai akan disimpan dalam variabel `nama_depan`.Seterusnya, proses yang sama dilakukan untuk nama tengah dan nama belakang dengan `printf` untuk pesan masukan dan `scanf` untuk menerima input.
 * `printf("Selamat datang %s %s %s dalam pemrograman C ", nama_depan, nama_tengah, nama_belakang);`: Ini adalah perintah untuk mencetak pesan selamat datang kepada pengguna dengan menggunakan nilai yang telah dimasukkan sebelumnya untuk nama depan, tengah, dan belakang.
 
-Kembali ke 👉 [Table of contents](#Table-of-contents)
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M2 Soal 2
 ```c
@@ -171,7 +171,7 @@ Bagian ini mencetak kembali data yang dimasukkan pengguna menggunakan `printf`. 
 ```
 Bagian ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan (30% nilai praktikum, 30% nilai UTS, dan 40% nilai UAS).Nilai akhir dihitung dengan menggunakan persamaan tertentu dan kemudian ditampilkan menggunakan `printf`.
 
-Kembali ke 👉 [Table of contents](#Table-of-contents)
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M2 Soal 3
 ```c
@@ -201,7 +201,7 @@ Program menampilkan informasi terkait perhitungan luas segitiga dengan panjang a
 
 Ini adalah kode yang melakukan perhitungan luas segitiga dengan panjang alas 8 dan tinggi 5, lalu menampilkan langkah-langkah perhitungannya serta hasilnya dalam bentuk teks melalui fungsi `printf`.
 
-Kembali ke 👉 [Table of contents](#Table-of-contents)
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M2-Soal 4
 ```c
@@ -232,7 +232,7 @@ Jadi, kode ini menghitung luas persegi panjang dengan panjang 10 dan lebar 5, la
 
 ***
 ***
-Kembali ke 👉 [Table of contents](#Table-of-contents)
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ## Penjelasan Tugas Modul 3
 
@@ -270,7 +270,7 @@ printf("Dollar yang harus anda berikan adalah : %i dollar\n", hasil_konversi);
 ```
 Program menampilkan hasil konversi dalam Dollar yang harus diberikan kepada penukar dengan menggunakan `%i` untuk mencetak variabel `hasil_konversi`.Jadi, program ini menghitung dan menampilkan jumlah Dollar yang setara dengan 2.500.000 Rupiah berdasarkan nilai tukar yang telah ditentukan.
 
-Kembali ke 👉 [Table of contents](#Table-of-contents)
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M3 Soal 2
 ```c
@@ -316,6 +316,8 @@ printf("Suhu dalam Fahrenheit   = %.2f\n", f);
 printf("Suhu dalam Reamur       = %.2f\n", r);
 ```
 Program menampilkan nilai suhu yang diinputkan dalam Celsius, serta nilai konversinya dalam Kelvin, Fahrenheit, dan Reamur menggunakan `printf`.Jadi, program ini memungkinkan pengguna untuk memasukkan suhu dalam Celsius, lalu mengkonversinya ke suhu dalam skala Kelvin, Fahrenheit, dan Reamur, dan menampilkan hasilnya.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M3 Soal 3
 ```c
@@ -374,6 +376,7 @@ Program menampilkan informasi tentang perhitungan luas permukaan bola.Perhitunga
 ***
 ***
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ## Penjelasan Tugas Modul 4
 
@@ -422,6 +425,8 @@ Operasi `/` dan `%` digunakan untuk membagi total detik menjadi jam, menit, dan 
 ```
 Program menampilkan hasil konversi waktu dari detik ke jam, menit, dan detik menggunakan `printf`.
 Jadi, program ini menerima jumlah detik sebagai input dan mengonversinya menjadi jam, menit, dan detik, lalu menampilkan hasil konversi tersebut.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M4 Soal 2
 ```c
@@ -484,6 +489,7 @@ Program menghitung total harga `(harga_total)` dari barang yang dibeli dengan me
 ```
 Program menampilkan detail transaksi termasuk nama pembeli, nama barang, harga per barang, jumlah barang, dan total harga menggunakan `printf`.Jadi, kode ini memungkinkan pengguna untuk memasukkan informasi terkait pembelian barang, menghitung total harga berdasarkan harga per barang dan jumlah yang dibeli, lalu menampilkan detail transaksi tersebut.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M4 Soal 3
 ```c
@@ -520,6 +526,8 @@ Variabel `nilai_presensi`, `nilai_praktek`, `nilai_uts`, dan `nilai_uas` diinisi
 ```
 Program menghitung nilai akhir berdasarkan bobot yang telah ditentukan (presensi 10%, praktek 20%, UTS 30%, dan UAS 40%).Nilai akhir dihitung dengan menjumlahkan setiap nilai yang telah dikalikan dengan bobotnya.Hasil perhitungan nilai akhir kemudian ditampilkan menggunakan `printf`.Jadi, kode ini menghitung nilai akhir berdasarkan bobot yang telah ditentukan untuk presensi, praktek, UTS, dan UAS, lalu menampilkan nilai akhir tersebut.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ### M4 Soal 4
 ```c
 /* 4. Program rental film */
@@ -551,6 +559,8 @@ Variabel `tarif_1jam` diinisialisasi dengan nilai 15000, mewakili tarif per jam 
     printf("Harga total       : %i\n", harga);
 ```
 Program menghitung total harga sewa film berdasarkan durasi waktu yang telah ditentukan.Pertama, terdapat tarif penuh untuk 1 jam `(1 * tarif_1jam)`.Kemudian ada diskon 50% untuk jam kedua `(1 * tarif_1jam * 0.5)`.Terakhir, diskon 50% juga diberikan untuk jam ketiga `(tarif_1jam * 0.5)`.Hasil perhitungan dari total harga disimpan dalam variabel `harga` dan kemudian ditampilkan menggunakan `printf`.Jadi, kode ini menghitung total harga sewa film berdasarkan tarif per jam dan durasi waktu, memberikan diskon setengah harga untuk jam kedua dan ketiga.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ***
 ***
@@ -730,6 +740,8 @@ meminta pengguna untuk memasukkan dua angka yang akan dioperasikan, dan menampil
   Jika pengguna memilih opsi selain A-E, program menampilkan pesan kesalahan.
  
 Dengan menggunakan switch case, program ini memungkinkan pengguna untuk memilih operasi aritmatika yang diinginkan dan mengeksekusi operasi tersebut berdasarkan pilihan yang dibuat.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
     
 ### M5 Soal 2
 ```c
@@ -794,6 +806,8 @@ Program menggunakan struktur `if-else` untuk menentukan diskon berdasarkan total
     
 * **Output Hasil Diskon**
 Setiap bagian dari if-else menampilkan informasi tentang diskon yang diberikan dan total harga setelah diskon atau total harga yang harus dibayar tanpa diskon.Informasi ini ditampilkan menggunakan perintah `printf`.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M5 Soal 3
 ```c
@@ -897,6 +911,7 @@ Setiap rumus melakukan input nilai sesuai dengan yang dibutuhkan, melakukan perh
 
 Jika pengguna memasukkan pilihan yang tidak valid, program akan menampilkan pesan kesalahan menggunakan `printf`.Dengan struktur ini, program memungkinkan pengguna untuk memilih rumus yang ingin dihitung untuk menghitung luas permukaan beberapa bentuk geometri yang berbeda.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M5 Soal 4    
 ```c
@@ -975,6 +990,8 @@ Program menggunakan serangkaian `if-else` untuk menentukan rentang nilai dan mem
 
 Jika pengguna memasukkan nilai yang tidak valid (di luar rentang 0-100), program akan menampilkan pesan kesalahan menggunakan `printf`.Dengan ini, program memungkinkan pengguna untuk memasukkan nilai-nilai dari berbagai komponen evaluasi dan memberikan keterangan tentang kelulusan berdasarkan nilai akhir yang dihitung.
     
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+    
 ***
 ***
     
@@ -1018,6 +1035,7 @@ Program menggunakan perulangan `for` untuk membuat deret bilangan genap dari 0 h
 ```
 Program mencetak judul "bilangan ganjil" menggunakan `printf`.Kemudian, menggunakan perulangan `for` yang serupa, mulai dari 1 hingga 50 (inklusif), dengan increment sebesar 2 pada setiap iterasi untuk menghasilkan bilangan ganjil.Pada setiap iterasi, nilai `i` dicetak menggunakan `printf`.Dengan ini, program menghasilkan dua deret bilangan, satu untuk bilangan genap (dari 0 hingga 50) dan satu untuk bilangan ganjil (dari 1 hingga 50).
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M6 Soal 2
 ```c
@@ -1040,6 +1058,7 @@ Program menggunakan dua perulangan `for` bersarang untuk mencetak pola bintang.P
 
 Dengan ini, program menghasilkan pola segitiga siku-siku yang terdiri dari bintang dengan jumlah baris bertambah satu setiap barisnya.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M6 Soal 3
 ```c
@@ -1072,7 +1091,7 @@ Program menggunakan dua perulangan `for` bersarang untuk mencetak pola angka.Per
 
 Dengan ini, program mencetak pola angka segitiga yang dihasilkan dari perkalian nilai baris dengan nilai kolomnya. Setiap baris memiliki jumlah angka yang bertambah sesuai dengan nomor barisnya.
 
-
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M6 Soal 4
 ```c
@@ -1188,6 +1207,8 @@ Menampilkan pesan untuk meminta pengguna untuk memilih nomor menu yang sesuai.
 
 Dengan demikian, program ATM ini memungkinkan Hattori untuk memeriksa saldo, melakukan setoran, dan melakukan penarikan tunai dari saldo yang dimilikinya.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ***
 ***
 
@@ -1262,6 +1283,7 @@ printf("\nRata rata nilai dari 20 siswa adalah : %i", rata);
 Nilai rata-rata dihitung dengan membagi total nilai `(sum)` dengan jumlah siswa `(jumlah)`.
 Kemudian nilai rata-rata ditampilkan di layar.Program ini meminta nama dan nilai dari 20 siswa, menyimpan data tersebut dalam array, menampilkan data siswa, dan menghitung rata-rata dari nilai-nilai tersebut.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M7 Soal 2
 ```c
@@ -1317,7 +1339,7 @@ for (int i = 0; i < jumlah_mahasiswa; i++) {
 Loop `for` kedua digunakan untuk menampilkan nama-nama mahasiswa yang telah diinput.
 Program ini meminta input jumlah mahasiswa, menyimpan nama-nama mahasiswa tersebut dalam array, dan menampilkannya kembali sesuai dengan urutan input.
 
-
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M7 Soal 3
 ```c
@@ -1401,6 +1423,8 @@ Program meminta pengguna untuk memasukkan username dan password dalam loop `whil
 ```
 Program memeriksa apakah input username dan password cocok dengan nilai default.Jika username salah, program memberikan notifikasi.Jika password salah, program mengurangi kesempatan dan memberi notifikasi. Jika kesempatan habis, program memberikan notifikasi bahwa percobaan login telah habis.Program ini meminta pengguna untuk memasukkan username dan password, memeriksa kecocokan dengan nilai default, dan memberikan notifikasi jika terjadi kesalahan atau kegagalan login. Jika login berhasil, program memberikan pesan bahwa login berhasil.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ***
 ***
 
@@ -1468,6 +1492,8 @@ int perkalian(int a, int b) {
 ```
 Fungsi `perkalian` menerima dua argumen, `a` dan `b`.Fungsi ini mengimplementasikan operasi perkalian secara rekursif menggunakan penjumlahan berulang.
 Jika `b` adalah 1, fungsi ini mengembalikan nilai `a`.Jika `b` lebih dari 1, fungsi ini memanggil dirinya sendiri dengan nilai `b - 1` sampai `b` menjadi 1 dan melakukan penjumlahan kembali untuk menghitung hasil perkalian.Jadi, program ini memungkinkan pengguna untuk memasukkan dua angka dan menghitung hasil perkaliannya menggunakan metode rekursif dalam fungsi `perkalian`.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M8 Soal 2
 ```c
@@ -1562,6 +1588,8 @@ int main() {
 ```
 Fungsi `main` meminta pengguna untuk memasukkan dua angka.Kemudian, hasil dari operasi penjumlahan, pengurangan, perkalian, dan pembagian kedua angka tersebut dicetak.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ### M8 Soal 3
 ```c
 double luas(double a,int b)
@@ -1642,6 +1670,7 @@ int main() {
 
 Fungsi `main` meminta pengguna untuk memasukkan dua angka.Kemudian, hasil dari operasi penjumlahan, pengurangan, perkalian, dan pembagian kedua angka tersebut dicetak.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M8 Soal 4
 ```c
@@ -1753,6 +1782,8 @@ int main() {
 ```
 Fungsi `main` meminta pengguna untuk memasukkan total belanja.Kemudian, total pembelian, besar diskon berdasarkan fungsi `discount`, dan jumlah yang harus dibayarkan setelah diskon dihitung dan dicetak.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ***
 ***
 
@@ -1792,6 +1823,8 @@ for (int i = strlen(word) - 1; i >= 0; i--) {
 ```
 Loop pertama dimulai dari `i` yang setara dengan panjang kata dikurangi 1 hingga mencapai 0.Pada setiap iterasi, `p_word` diperbarui untuk menunjuk ke posisi dalam `word`.Loop kedua dimulai dari 0 hingga panjang kata dikurangi `i`.Pada setiap iterasi loop kedua, karakter yang ditunjuk oleh `p_word` dicetak.Setelah setiap baris selesai dicetak, baris baru ditambahkan.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ### M9 Soal 2
 ```c
 char masukan[10];
@@ -1825,6 +1858,8 @@ Loop dimulai dari `i` yang setara dengan panjang kalimat yang dimasukkan dikuran
 
 
 Code ini akan mencetak karakter-karakter dari input kalimat secara terbalik, dengan spasi di antara setiap karakter. Misalnya, jika Anda memasukkan kalimat "Hello", outputnya akan seperti ini: `o l l e H`. Namun, perlu dicatat bahwa penggunaan `gets` dalam C memiliki risiko keamanan karena tidak ada pengamanan terhadap overflow buffer. Penggunaan `gets` bisa digantikan dengan fungsi lebih aman seperti `fgets`.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M9 Soal 3
 ```c
@@ -1867,6 +1902,9 @@ int lesley = 57082;
 `lesley` diatur kembali ke nilai 57082.Pointer `Layla` diinisialisasi untuk menunjuk ke alamat memori dari `lesley`.Variabel `Balmond` diinisialisasi dengan nilai yang ditunjuk oleh `Layla` ditambah 1.Nilai dari variabel yang ditunjuk oleh `Layla` dan nilai `Balmond` dicetak.
 
 Dua bagian kode tersebut melakukan hal yang sama dengan cara yang sedikit berbeda. Pertama, menggunakan variabel langsung (`lesley`, `layla`, dan `balmond`), sedangkan yang kedua, menggunakan pointer (`Layla` dan `Balmond`). Hasil akhirnya adalah mencetak nilai `layla` dan nilai `balmond` yang sama pada kedua kasus tersebut.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ***
 ***
 
@@ -1958,6 +1996,7 @@ do {
 ```
 Perulangan `do-while` luar akan mengulang permainan secara keseluruhan jika pengguna memilih untuk bermain lagi.Di dalamnya, ada permainan tebak angka: pengguna diminta untuk menebak angka antara 0 dan 20.Terdapat perulangan `do-while` dalam yang meminta tebakan pengguna dan memberikan petunjuk terkait tebakan tersebut.Jumlah tebakan yang dilakukan oleh pengguna akan terus tercatat hingga tebakan benar.Setelah permainan selesai, jumlah tebakan akan ditampilkan dan pengguna akan ditanya apakah ingin bermain lagi.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M10 Soal 2
 ```c
@@ -2072,6 +2111,7 @@ for (int i = 0; i < jumlah_zodiak; i++) {
 Melalui loop `for`, program memeriksa setiap objek zodiak.
 Jika tanggal kelahiran pengguna berada dalam rentang tanggal untuk suatu zodiak tertentu, program akan mencetak zodiak yang sesuai dengan tanggal kelahiran pengguna.
 
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
 
 ### M10 Soal 3
 ```c
@@ -2202,6 +2242,9 @@ int main() {
 }
 ```
 Fungsi utama dimulai di sini.Ada array `data` dari struktur `mahasiswa` yang dapat menyimpan data hingga 50 mahasiswa.Variabel `total` digunakan untuk menghitung jumlah mahasiswa yang telah dimasukkan.Loop `do-while` digunakan untuk mengulang proses memasukkan data mahasiswa.Setelah pengguna selesai memasukkan data, program menampilkan info dari data mahasiswa yang dimasukkan.Program meminta pengguna apakah ingin menambahkan data mahasiswa lagi (`y/n`). Jika `y`, loop akan terus berlanjut. Jika `n`, program selesai.
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
+
 ***
 ***
 
@@ -2217,3 +2260,5 @@ Fungsi utama dimulai di sini.Ada array `data` dari struktur `mahasiswa` yang dap
 [Modul 9 (Pointer)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%209%20(Pointer))  
 [Modul 10 (Enumerasi & Structure)](https://github.com/Zyxcid/Praktikum_Algoritma/tree/main/Job%20Sheet%2010%20(Enumerasi%20%26%20Structure))  
 [Job Sheet 11]
+
+**Kembali ke** 👉 [Table of contents](#Table-of-contents)
