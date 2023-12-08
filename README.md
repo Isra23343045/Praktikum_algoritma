@@ -1,8 +1,8 @@
 Repositori ini berisi mengenai semua [Rangkuman](#Rangkuman) materi perkuliahan praktikum algoritma pemrogaman pada Semester 1 beserta penjelasan soal soal tugas dari masin masing Modul.
 
-📓 Mata Kuliah : Praktikum Algoritma
-👨‍🏫 Dosen: Randi Proska Sandra, M.Sc
-🏫 Kode kelas : Kode Kelas : INF1.62.1008
+📓 Mata Kuliah : Praktikum Algoritma.
+👨‍🏫 Dosen: Randi Proska Sandra, M.Sc.
+🏫 Kode kelas : Kode Kelas : INF1.62.1008.
 ***
 ### 🧘 A Little About Me
 👨‍🔬Nama : Muhammad Isra Alfattah
