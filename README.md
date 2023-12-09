@@ -52,6 +52,8 @@ Konversi tipe data (type casting) mengubah tipe data menjadi yang lain, seperti 
 #### Konstanta
 
 Konstanta adalah nilai tetap yang tidak dapat diubah.Cara pembuatan konstanta menggunakan `#define` atau `const`, disarankan menggunakan huruf kapital untuk nama konstanta.
+
+
 Penjelasan lengkap tugas modul 3 👉 [Modul 3(Variabel, Konstanta & Tipe Data))](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%203/Readme.md)
 
 ***
@@ -177,9 +179,11 @@ Mirip dengan while, tapi mengecek kondisi setelah eksekusi pertama.
 Membuat perulangan dalam perulangan.
 Menggunakan dua perulangan for untuk nested loop.
 
+Penjelasan lengkap tugas modul 6 👉 [Modul 6(Flow Control: Loop (Perulangan))](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%206/Readme.md)
+
 ***
 ***
-### Modul 6(Flow Control: Loop (Perulangan))
+### Modul 7 (Array)
 ***
 #### Penggunaan Array
 
@@ -215,6 +219,9 @@ Mengakses data dalam array dua dimensi dilakukan dengan indeks baris dan kolom.
 
 String adalah array karakter yang digunakan untuk menyimpan teks.
 Fungsi dari library string.h seperti strcpy(), strcat(), strlen(), strcmp() membantu manipulasi string.
+
+Penjelasan lengkap tugas modul 7 👉 [Modul 7 (Array)](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%207/Readme.md)
+
 ***
 ***
 ### Modul 8(Fungsi & Prosedur)
@@ -249,6 +256,8 @@ Pass by reference adalah memberikan alamat memori sebagai nilai parameter menggu
 
 Contoh program untuk menguji fungsi-fungsi dalam C seperti perulangan, fungsi yang mengembalikan nilai, dan fungsi rekursif.
 
+Penjelasan lengkap tugas modul 8 👉 [Modul 8 (Fungsi & Prosedur)](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%208/Readme.md)
+
 ***
 ***
 
@@ -282,6 +291,8 @@ Pointer sering digunakan untuk mengakses dan mengubah elemen dalam array, memung
 #### Manfaat Pointer
 
 Pointer memberikan optimasi performa program dengan alokasi memori yang lebih hemat, terutama dalam pengelolaan struktur data kompleks.
+
+Penjelasan lengkap tugas modul 9 👉 [Modul 9 (Pointer)](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%209/Readme.md)
 
 ***
 ***
@@ -323,6 +334,8 @@ Struct dapat dibuat bersarang (nested), yaitu dengan adanya struct di dalam stru
 
 Struct dapat digunakan sebagai parameter untuk fungsi, memungkinkan penanganan data yang lebih terstruktur dalam fungsi.
 
+Penjelasan lengkap tugas modul 10 👉 [Modul 10(Enumerasi & Structure)](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%2010/Readme.md)
+
 ***
 ***
 
@@ -347,6 +360,7 @@ Fungsi `fputs()` digunakan untuk menulis teks ke dalam file yang dibuka.
 Mode dalam `fopen()` (`w`, `w+`, `a`, dll.) menentukan akses untuk menulis atau menambahkan isi file.
 Membuka kembali file dengan mode yang berbeda memungkinkan penulisan atau penambahan isi file.
 
+Penjelasan lengkap tugas modul 11 👉 [Modul 11(File Handling in C)](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%2011/Readme.md)
 
 
 
