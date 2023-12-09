@@ -31,6 +31,8 @@ Komentar untuk dokumentasi program.Whitespaces (spasi, tab, dll.) memisahkan ele
 
 `printf()` untuk output ke layar dengan format specifier.`puts()` untuk output dengan baris baru otomatis.`putchar()` untuk menampilkan satu karakter.`scanf()` untuk ambil input dari keyboard dengan format specifier.`gets()` dan `fgets()` untuk input dalam satu baris.
 
+Penjelasan lengkap tugas modul 2 👉 [Modul 2(Pemrograman Dasar C)](https://github.com/Isra23343045/rename-when-it-s-completed/blob/main/MODUL%202/Readme.md)
+
 ***
 ***
 ### Modul 3(Variabel, Konstanta & Tipe Data)
